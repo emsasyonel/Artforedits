@@ -105,27 +105,27 @@
 <div class="photo-container">
     <div  class="photo-item">
       <img src="./photo container img/indir.jpg" alt="">
-      <p>Cristiano Ronaldo</p>
+      <a style="text-decoration: none; color:black;" href="cristiano.php"><p>Cristiano Ronaldo</p></a>
     </div>
     <div class="photo-item">
     <img src="./photo container img/indir (1).jpg" alt="">
-    <p>Lionel Messi</p>
+    <a style="text-decoration: none; color:black;" href="lionelmessi.php"><p>Lionel Messi</p></a>
     </div>
     <div class="photo-item">
     <img src="./photo container img/indir (2).jpg" alt="">
-    <p>Neymar</p>
+    <a style="text-decoration: none; color:black;" href="neymar.php"><p>Neymar</p></a>
     </div>
     <div class="photo-item">
     <img src="./photo container img/indir (3).jpg" alt="">
-    <p>Lewandowski</p>
+    <a style="text-decoration: none; color:black;" href="lewandowski.php"><p>Robert Lewandowski</p></a>
     </div>
     <div class="photo-item">
     <img src="./photo container img/indir (4).jpg" alt="">
-    <p>Benzema</p>
+    <a style="text-decoration: none; color:black;" href="benzema.php"><p>Benzema</p></a>
     </div>
     <div class="photo-item">
     <img src="./photo container img/indir (5).jpg" alt="">
-    <p>Vini Jnr.</p>
+    <a style="text-decoration: none; color:black;" href="vini.php"><p>Vini Jr.</p></a>
     </div>
 </div>
 <hr>
